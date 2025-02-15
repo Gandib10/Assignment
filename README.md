@@ -5,7 +5,7 @@ Lose Image![cdc975a8-1cd4-4273-8fcf-7f878eb0465c](https://github.com/user-attach
 
 Developed By: Gandib Paudel
              Ramun Shrestha
-
+             Asmita Pun
 
 
 
